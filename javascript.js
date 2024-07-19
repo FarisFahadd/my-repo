@@ -1,1 +1,1 @@
-alert("hi, hello")
+alert("hi, welcom")
